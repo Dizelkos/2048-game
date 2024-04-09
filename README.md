@@ -11,11 +11,14 @@ This is a browser-based implementation of the popular game 2048. The goal is to 
     ```bash
     git clone https://github.com/Dizelkos/2048-game.git
     ```
-2. Navigate to the project directory:
+2. Install a package:
     ```bash
-    cd 2048-game
+    npm install
     ```
-3. Open the index.html file in your preferred web browser.
+3. Start a package:
+    ```bash
+    npm start
+    ```
 
 ## Usage Guide
 1. The game is played on a 4×4 grid.
